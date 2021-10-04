@@ -44,4 +44,5 @@ elif computador == 2:
         print(' EMPATE ')
     else:
         print(' JOGADA INVALIDA ')
+sleep(4)
 print(' FIM DE JOGO ')
